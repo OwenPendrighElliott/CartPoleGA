@@ -1,5 +1,9 @@
 # CartPoleGA
-Solving OpenAI Gym CartPole with an genetic algorithm
+Solving OpenAI Gym CartPole with an genetic algorithm and a neural network.
+
+The neural network required to solve cartpole using this approach is very small:
+
+![](media/nn.svg)
 
 ## Approach
 
@@ -13,7 +17,7 @@ Depending on the random initialisation of the population this approach will conv
 
 Here is an example of the fittest member of the population achieving a score of over 1000 despite the training process stopping at a score of 200:
 
-![](CartPole1000.gif)
+![](media/CartPole1000.gif)
 
 ## Interesting Observations
 
