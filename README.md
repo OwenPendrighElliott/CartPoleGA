@@ -11,13 +11,15 @@ A population of DNA (neural network weights) is trialed over multiple generation
 
 ## Performance 
 
-Depending on the random initialisation of the population this approach will converge to a solution in anything from 15 to 35 generations (from empirical testing).
+Depending on the random initialisation of the population this approach will converge to a solution in anything from 10 to 25 generations (from empirical testing).
 
 ## Example
 
 Here is an example of the fittest member of the population achieving a score of over 1000 despite the training process stopping at a score of 200:
 
 ![](media/CartPole1000.gif)
+
+This code did manage to evolve better DNA where the cart barely moved at all however this example is more interesting to look at.
 
 ## Interesting Observations
 
