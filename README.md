@@ -1,5 +1,5 @@
 # CartPoleGA
-Solving OpenAI Gym CartPole with an genetic algorithm and a neural network.
+Solving OpenAI Gym CartPole with an genetic algorithm and a neural network. In this code the backpropogation algorithm is replaced with a genetic algorithm.
 
 The neural network required to solve cartpole using this approach is very small:
 
