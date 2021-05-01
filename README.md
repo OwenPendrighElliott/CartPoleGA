@@ -3,7 +3,7 @@ Solving OpenAI Gym CartPole with an genetic algorithm and a neural network.
 
 The neural network required to solve cartpole using this approach is very small:
 
-![](media/nn.svg)
+![](media/nn.svg, width="100%" height="200")
 
 ## Approach
 
